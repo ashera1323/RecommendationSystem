@@ -1,3 +1,7 @@
+## Ashera Dyussenova 
+## BS20-DS
+## a.dyusenova@innopolis.university
+
 # Practical Machine Learning and Deep Learning - Assignment 2 - Movie Recommender System
 
 ## Task description
